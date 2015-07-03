@@ -1,3 +1,3 @@
 # datasciencecoursera
 Data Science - Johns Hopkins University
-##teste de uso do Git Hub
+Pasta inicial criada para iniciar o uso do sistema GITHub
